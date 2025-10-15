@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Data Scientist+%7C+Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Full+Stack+Developer+%7C+Problem+Solver;Crafting+Digital+Magic+✨" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,17 +13,17 @@
 
 ## 🌟 About Me
 
-```
-const developer = {
+```python
+data_scientist = {
   name: "Your Name",
-  title: "Full Stack Developer & Creative Problem Solver",
+  title: "Data Scientist | ML Engineer | Data Enthusiast",
   location: "Your City, Country",
-  passion: "Building elegant solutions that solve real problems",
-  philosophy: "Code is poetry. Make it count."
+  passion: "Extracting insights from data and building intelligent systems",
+  philosophy: "Data tells stories. I help uncover them."
 }
 ```
 
-I transform ideas into reality through code. With a keen eye for detail and a love for clean architecture, I craft applications that aren't just functional—they're beautiful. Every line of code tells a story.
+I leverage data to drive decision-making and build intelligent systems. With a passion for statistical analysis, machine learning, and data visualization, I transform raw data into actionable insights. Every dataset has a story—I'm here to tell it.
 
 <div align="center">
   
@@ -39,23 +39,23 @@ I transform ideas into reality through code. With a keen eye for detail and a lo
   <tr>
     <td align="center" width="33%">
       <div>
-        <h3>🎨 Frontend Magic</h3>
-        <p>React • Vue • TypeScript</p>
-        <p>Crafting pixel-perfect, responsive interfaces</p>
+        <h3>📊 Data Analysis</h3>
+        <p>Pandas • NumPy • SQL</p>
+        <p>Uncovering patterns and trends in data</p>
       </div>
     </td>
     <td align="center" width="33%">
       <div>
-        <h3>⚙️ Backend Power</h3>
-        <p>Node.js • Python • Databases</p>
-        <p>Building scalable, robust systems</p>
+        <h3>🤖 Machine Learning</h3>
+        <p>Scikit-learn • TensorFlow • PyTorch</p>
+        <p>Building intelligent predictive models</p>
       </div>
     </td>
     <td align="center" width="33%">
       <div>
-        <h3>🚀 DevOps & Cloud</h3>
-        <p>Docker • AWS • CI/CD</p>
-        <p>Deploying with confidence</p>
+        <h3>📈 Data Visualization</h3>
+        <p>Matplotlib • Seaborn • Tableau</p>
+        <p>Creating compelling visual narratives</p>
       </div>
     </td>
   </tr>
@@ -67,18 +67,18 @@ I transform ideas into reality through code. With a keen eye for detail and a lo
 
 <div align="center">
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -134,49 +134,6 @@ I transform ideas into reality through code. With a keen eye for detail and a lo
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourname&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎓 | 💼 | 🌟 |
-|:---:|:---:|:---:|
-| **Self-Taught Developer** | **5+ Years Experience** | **100+ Projects** |
-| Continuous Learning | Full Stack Expertise | Open Source Contributor |
-| Problem Solver | Tech Enthusiast | Community Leader |
-
-</div>
-
----
-
-## 🔥 Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourname&color=00F0FF&style=flat-square&label=Profile+Views)
-![Repositories](https://img.shields.io/badge/Repositories-50%2B-00F0FF?style=flat-square)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-500%2B-00F0FF?style=flat-square)
-
-</div>
 
 ---
 
