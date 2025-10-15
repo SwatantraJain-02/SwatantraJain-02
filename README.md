@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Data Scientist+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Data Scientist+%7C+Problem+Solver;" alt="Typing SVG" />
 </div>
 
 <br/>
