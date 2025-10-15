@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Full+Stack+Developer+%7C+Problem+Solver;Crafting+Digital+Magic+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Space!;Data+Scientist+%7C+Problem+Solver;Crafting+Digital+Magic+✨" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 data_scientist = {
   name: "Your Name",
   title: "Data Scientist | ML Engineer | Data Enthusiast",
-  location: "Your City, Country",
+  location: "Jaipur, Rajasthan",
   passion: "Extracting insights from data and building intelligent systems",
   philosophy: "Data tells stories. I help uncover them."
 }
